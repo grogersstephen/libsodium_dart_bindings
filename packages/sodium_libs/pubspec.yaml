@@ -62,5 +62,5 @@ flutter:
 
 cider:
   link_template:
-    tag: https://github.com/Skycoder42/libsodium_dart_bindings/releases/tag/sodium_libs-v%tag%
-    diff: https://github.com/Skycoder42/libsodium_dart_bindings/compare/sodium_libs-v%from%...sodium_libs-v%to%
+    tag: https://github.com/grogersstephen/libsodium_dart_bindings/releases/tag/sodium_libs-v%tag%
+    diff: https://github.com/grogersstephen/libsodium_dart_bindings/compare/sodium_libs-v%from%...sodium_libs-v%to%
