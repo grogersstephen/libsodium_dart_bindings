@@ -1,3 +1,6 @@
 dependency_overrides:
   sodium:
-    path: "../sodium"
+    git:
+      url: https://github.com/grogersstephen/libsodium_dart_bindings.git
+      ref: main
+      path: packages/sodium
