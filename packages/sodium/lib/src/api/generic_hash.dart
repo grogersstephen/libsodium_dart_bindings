@@ -136,7 +136,7 @@ mixin GenericHashValidations implements GenericHash {
   /// @nodoc
   void validateKey(SecureKey key) => Validations.checkInRange(
         key.length,
-        keyBytesMin,
+        0,
         keyBytesMax,
         'key',
       );
